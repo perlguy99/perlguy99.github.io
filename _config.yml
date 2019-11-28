@@ -1,4 +1,5 @@
 name: Brent Michalski
+description: My site to ramble, learn, and teach
 markdown: kramdown
 theme: jekyll-theme-architect
 
