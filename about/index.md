@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-published: false
+published: true
 ---
 
 # About
@@ -12,3 +12,10 @@ published: false
 * [jemoji](https://github.com/jekyll/jemoji)
   * [See Gemoji for documentation](https://github.com/github/gemoji)
   
+## jekyll Docs
+* [jekyll documentation](https://jekyllrb.com/docs/)
+
+## Markdown Docs
+* [Markdown Cheat Sheet 1](https://www.markdownguide.org/cheat-sheet/)
+* [Markdown Cheat Sheet 2](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
